@@ -1,5 +1,4 @@
-{
-  "jobs": [
+[
     {
     "title": "Flutter Developer",
     "requiredExpYears": 3,
@@ -28,5 +27,4 @@
     "company_name": "company",
     "salary": 700000.0
     }
-  ]
-}
+]
